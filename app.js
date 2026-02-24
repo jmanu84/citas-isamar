@@ -8,7 +8,8 @@ document.addEventListener("DOMContentLoaded", function() {
       "Depilación de Piernas",
       "Depilación Corporal",
       "Diseño de Cejas",
-      "Tratamiento con Dermapen"
+      "Tratamiento con Dermapen",
+      "Pestañas por Punto"
   ];
 
   const districtSelect = document.getElementById("district");
